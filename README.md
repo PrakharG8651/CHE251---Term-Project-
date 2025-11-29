@@ -63,7 +63,7 @@ Detailed results, analysis, and conclusions are documented in:
 | Prakhar Gupta | [@PrakharG8651](https://github.com/PrakharG8651) |
 | Arun Chauhan | [@Arun-Chauhan-24](https://github.com/Arun-Chauhan-24) |
 | Prince Meena | [@xenoz27](https://github.com/xenoz27) |
-| Aman Agrawal | [@amanagrawal9685-source](https://github.com/amanagrawal9685-source) |
+| Aman Agrawal | [@Amanag185](https://github.com/Amanag185) |
 | Arjit Agrawal | [@Wizard2100](https://github.com/Wizard2100) |
 | Tripti | [@triptii111](https://github.com/triptii111) |
 | Anubhav Jha | [@anubhavjha084-web](https://github.com/anubhavjha084-web) |
